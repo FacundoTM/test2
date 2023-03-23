@@ -1,0 +1,18 @@
+[ 
+    {
+        "titulo":"Rock, Paper, Scissors",
+        "Descripcion":"Classic game, better of five. JavaScript & HTML",
+        "tIMG":"./img/job1.png",
+        "tClass":"imgb",
+        "link":"https://facundotm.github.io/RPS/",
+        "shortDesc":"RPS"
+    },
+    {
+        "titulo":"Calculator",
+        "Descripcion":"Simple calculator",
+        "tIMG":"./img/job2.png",
+        "tClass":"imgb",
+        "link":"https://facundotm.github.io/Calculator/",
+        "shortDesc":"Calculator"
+    }
+]
