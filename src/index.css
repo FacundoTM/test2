@@ -55,7 +55,7 @@ header li {
   font-size: 16px;
 }
 
-@media screen and (max-width: 546px) {
+@media screen and (max-width: 662px) {
   header li {
       padding: 0 10px !important;
   }
@@ -67,7 +67,8 @@ header li {
   }
 
   .imgb {
-      width: 75% !important;
+      width: 100% !important;
+      border-radius: 0px !important;
   }
 }
 
@@ -155,14 +156,6 @@ img.face {
   padding:0.6% 0%;
   color:gray;
   font-size:0.8em;
-  }
-  
-  @media (max-width:720px){
-  .footer{
-  text-align:left;
-  padding:5%;
-  }
-
   }
 
 label {
