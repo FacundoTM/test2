@@ -96,7 +96,7 @@ h3 a:hover {
 .slider {
   display: flex;
   width: 100%;
-  height: auto;
+  height: 800px;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -185,6 +185,7 @@ input, textarea{
 .pF {
   color: #8873EF;
   background: #e3e3e3;
+  height: auto !important;
 }
 
 form {
