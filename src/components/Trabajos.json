@@ -14,5 +14,13 @@
         "tClass":"imgb",
         "link":"https://facundotm.github.io/Calculator/",
         "shortDesc":"Calculator"
+    },
+    {
+        "titulo":"Calculator",
+        "Descripcion":"Simple calculator",
+        "tIMG":"./img/job2.png",
+        "tClass":"imgb",
+        "link":"https://facundotm.github.io/Calculator/",
+        "shortDesc":"Calculator"
     }
 ]
